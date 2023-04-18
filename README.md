@@ -3,10 +3,6 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
-
-Include your ER diagram here
-
 ## DESIGN STEPS
 
 ### STEP 1:
@@ -39,8 +35,8 @@ Records are added and saved in the table inside the database.
 
 
 ## PROGRAM
-```
-Model.py
+
+```Model.py
 
 from django.db import models
 from django.contrib import admin
@@ -63,8 +59,8 @@ Admin.py
 
 from django.contrib import admin
 from .models import Student,StudentAdmin
-admin.site.register(Student,StudentAdmin)
-```
+admin.site.register(Student,StudentAdmin)```
+
 
 
 ## OUTPUT
