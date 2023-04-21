@@ -67,6 +67,9 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 ![Screenshot 2023-04-13 092205](https://user-images.githubusercontent.com/121165938/232828450-545b054a-3873-4643-a442-0111ce91a3f2.png)
 
+## SERVER OUTPUT
+![Screenshot 2023-04-21 083246](https://user-images.githubusercontent.com/121165938/233530823-1c90f277-d8e6-4259-8566-66c158a423a1.png)
+
 
 
 
